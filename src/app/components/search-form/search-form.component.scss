@@ -1,0 +1,17 @@
+@import "../../../scss/variables";
+
+.products-search {
+  background-color: $lightblue;
+  margin-top: 2rem !important;
+
+  form {
+    label {
+      color: #FFF;
+      font-weight: bolder;
+      font-size: 1.15rem;
+    }
+  }
+  button.btn {
+    font-size: 1.15rem;
+  }
+}

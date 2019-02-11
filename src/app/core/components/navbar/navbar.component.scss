@@ -1,0 +1,18 @@
+@import '../../../../scss/variables';
+
+.logo {
+  font-family: $pacifico !important;
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .navbar {
+    width: 80% !important;
+    margin: 0 auto !important;
+    position: relative !important;
+    margin-top: 2rem !important;
+    border-radius: 4px;
+    box-shadow: 0px 2px 24px rgba(#000, .35);
+    transition: all ease .5s;
+  }
+}

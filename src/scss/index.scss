@@ -1,0 +1,9 @@
+@import './variables';
+
+@import "../../node_modules/ngx-bootstrap/datepicker/bs-datepicker";
+
+body {
+  &:not(i) {
+    font-family: $varela !important;
+  }
+}
