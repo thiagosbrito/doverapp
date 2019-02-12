@@ -1,22 +1,45 @@
-<section class="result-list mt-4 p-3 rounded shadow">
+<section class="result-list mt-4 p-3 rounded shadow"*ngIf="products.length > 0">
   <h3>
-    We found 70 results with your criteria
+    We found {{products.length}} results with your criteria <small>filter your results</small>
   </h3>
+  <div class="row">
+    <div class="col">
+      <div class="filter bg-info rounded p-3 mb-4">
+        <h4>Filter by:</h4>
+        <form [formGroup]="filterForm">
+          <div class="form-row">
+            <div class="col-lg-4">
+              <label for="byModel">Search by Laptop Model:</label>
+              <input type="text" class="form-control" formControlName="model">
+            </div>
+            <div class="col-lg-8">
+              <label for="dateFrom">Date from / to:</label>
+              <input type="text"
+                placeholder="Daterangepicker"
+                class="form-control"
+                bsDaterangepicker
+                formControlName="dateFromTo">
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
   <div class="table-responsive">
     <table class="table table-striped shadow-sm">
       <thead>
         <tr>
           <th>Name</th>
-          <th>Model</th>
+          <th class="d-none d-md-table-cell d-xl-table-cell d-lg-table-cell">Model</th>
           <th>Price</th>
           <th></th>
         </tr>
       </thead>
-      <tbody>
-        <tr>
-          <td>Apple Macbook Air</td>
-          <td>Intel i7 7th Generation, 512gb SSD, 8Gb ram, 13"</td>
-          <td>13.480pln</td>
+      <tbody [@fadeIn]="products.length">
+        <tr *ngFor="let laptop of products">
+          <td>{{laptop.name}}</td>
+          <td class="d-none d-md-table-cell d-xl-table-cell d-lg-table-cell">{{laptop.model}}</td>
+          <td>{{laptop.price | currency:'PLN':'symbol':'4.2-2'}}</td>
           <td>
             <div class="btn-group">
               <button class="btn brn-primary">

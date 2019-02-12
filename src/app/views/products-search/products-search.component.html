@@ -1,2 +1,2 @@
-<app-search-form></app-search-form>
-<app-result-list></app-result-list>
+<app-search-form (fetchFormData)="searchProducts($event)"></app-search-form>
+<app-result-list [products]="productsList"></app-result-list>
