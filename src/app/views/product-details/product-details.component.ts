@@ -14,10 +14,10 @@ export class ProductDetailsComponent implements OnInit {
 
   constructor(private productService: ProductsService, private route: ActivatedRoute) {
     this.productId = this.route.snapshot.paramMap.get('id');
+    this.getProductDetail();
   }
 
   ngOnInit() {
-    this.getProductDetail();
   }
 
 

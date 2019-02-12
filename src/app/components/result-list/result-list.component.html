@@ -42,7 +42,7 @@
           <td>{{laptop.price | currency:'PLN':'symbol':'4.2-2'}}</td>
           <td>
             <div class="btn-group">
-              <button class="btn brn-primary">
+              <button class="btn brn-primary" (click)="goToProduct(laptop.id)">
                 See details
               </button>
             </div>

@@ -1,52 +1,20 @@
 <table class="table table-striped shadow-sm bg-white rounded">
     <thead>
       <tr>
-        <th colspan="2" class="text-center">Specification</th>
+        <th colspan="2" class="text-center spec-title">Specification</th>
       </tr>
     </thead>
-    <tr>
-      <th colspan="2">
-        Processor
-      </th>
-    </tr>
-    <tr>
-      <th>Processor</th>
-      <td>Intel Core i7</td>
-    </tr>
-    <tr>
-      <th>Number of cores</th>
-      <td>6 (Hexa Core)</td>
-    </tr>
-    <tr>
-      <th>Processor clock [GHz]</th>
-      <td>2.2</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
+    <tbody>
+      <ng-container *ngFor="let spec of specsContent">
+        <tr>
+          <th colspan="2" class="text-center spec-title">
+            {{spec.section}}
+          </th>
+        </tr>
+        <tr *ngFor="let specInfo of spec.infos">
+          <th>{{specInfo.name}}</th>
+          <td>{{specInfo.value}}</td>
+        </tr>
+      </ng-container>
+    </tbody>
   </table>

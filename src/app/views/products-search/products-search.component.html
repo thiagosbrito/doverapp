@@ -1,2 +1,3 @@
 <app-search-form (fetchFormData)="searchProducts($event)"></app-search-form>
 <app-result-list [products]="productsList"></app-result-list>
+<app-search-summary *ngIf="productsList.length > 0"></app-search-summary>

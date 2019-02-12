@@ -14,7 +14,8 @@ import {
   ResultListComponent,
   ProductImageComponent,
   ProductSpecsComponent,
-  ProductDescriptionComponent
+  ProductDescriptionComponent,
+  SearchSummaryComponent
 } from './components';
 
 @NgModule({
@@ -27,7 +28,8 @@ import {
     ResultListComponent,
     ProductImageComponent,
     ProductSpecsComponent,
-    ProductDescriptionComponent
+    ProductDescriptionComponent,
+    SearchSummaryComponent
   ],
   imports: [
     BrowserModule,
