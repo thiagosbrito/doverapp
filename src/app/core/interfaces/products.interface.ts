@@ -5,6 +5,8 @@ interface Product {
   price: number;
   dateOfPurchase: string;
   description: string;
+  imageUrl?: string;
+  specs?: any[];
 }
 
 interface Products extends Array<Product> {}

@@ -17,8 +17,7 @@ export class ProductsSearchComponent implements OnInit {
   }
 
 
-  ngOnInit() {
-  }
+  ngOnInit() { }
 
   searchProducts(formData: SearchForm) {
     this.productsService.getProductsList(formData).subscribe(

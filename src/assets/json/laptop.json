@@ -1,0 +1,110 @@
+{
+  "id": 1,
+  "name": "Macbook Pro",
+  "model": "Macbook Pro 2018 Intel® Core i7™ Gen 16gb ram 256gb SSD 15\"",
+  "price": 15000,
+  "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+  "imageUrl": "http://localhost:4200/assets/images/macbook-pro.jpg",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi.",
+  "specs": [
+    {
+      "section": "Processor",
+      "infos": [
+        {
+          "name": "Processor",
+          "value": "Intel Core i7"
+        },
+        {
+          "name": "Number of cores",
+          "value": "6 (Hexa core)"
+        },
+        {
+          "name": "Processor clock GHz",
+          "value": "2.2"
+        },
+        {
+          "name": "Maximum Turbo frequency GHz",
+          "value": "4.1"
+        }
+      ]
+    },
+    {
+      "section": "RAM",
+      "infos": [
+        {
+          "name": "RAM",
+          "value": "32 GB DDR4"
+        },
+        {
+          "name": "Operating frequency MHz",
+          "value": "2400"
+        }
+      ]
+    },
+    {
+      "section": "Driver and Disks",
+      "infos": [
+        {
+          "name": "Disk",
+          "value": "SSD (Flash Drive)"
+        },
+        {
+          "name": "SSD Drive",
+          "value": "256 GB"
+        },
+        {
+          "name": "Drive",
+          "value": "None (only externals)"
+        }
+      ]
+    },
+    {
+      "section": "Driver and Disks",
+      "infos": [
+        {
+          "name": "Disk",
+          "value": "SSD (Flash Drive)"
+        },
+        {
+          "name": "SSD Drive",
+          "value": "256 GB"
+        },
+        {
+          "name": "Drive",
+          "value": "None (only externals)"
+        }
+      ]
+    },
+    {
+      "section": "Graphics",
+      "infos": [
+        {
+          "name": "Graphic card",
+          "value": "AMD Radeon Pro 555X 4GB GDDR5"
+        }
+      ]
+    },
+    {
+      "section": "Screen",
+      "infos": [
+        {
+          "name": "Display",
+          "value": "15.4\" (2880x1800)"
+        },
+        {
+          "name": "Diagonal",
+          "value": "15.4"
+        },
+        {
+          "name": "Resolution",
+          "value": "2880x1800"
+        },
+        {
+          "name": "Matrix type",
+          "value": "IPS"
+        }
+
+      ]
+    }
+  ]
+}

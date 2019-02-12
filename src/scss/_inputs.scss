@@ -1,0 +1,15 @@
+.form-control {
+  background-color: transparent !important;
+  border-color: transparent !important;
+  border-radius: 0 !important;
+  border-bottom: 1px solid #fff !important;
+  color: #FFF !important;
+  outline: 0 !important;
+  transition: all ease .5s;
+  &:active,
+  &:focus {
+    border-bottom: 2px solid #FFF !important;
+    outline: 0 !important;
+    box-shadow: none !important;
+  }
+}
