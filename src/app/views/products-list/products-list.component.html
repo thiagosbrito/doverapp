@@ -1,0 +1,44 @@
+<section class="result-list my-4 p-3 rounded shadow"*ngIf="products.length > 0">
+    <div class="row">
+      <div class="col-lg-4">
+        <app-search-summary [items]="products" *ngIf="products.length > 0"></app-search-summary>
+      </div>
+      <div class="col-lg-8">
+        <app-products-filter (fetchFormData)="applyFilter($event)"></app-products-filter>
+      </div>
+    </div>
+    <div class="table-responsive">
+
+      <h5>
+        <span class="badge badge-primary">
+          <i class="fas fa-info"></i> In order to filter the list, please provide the full model name.
+        </span>
+      </h5>
+      <table class="table table-striped shadow-sm">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th class="d-none d-md-table-cell d-xl-table-cell d-lg-table-cell">Model</th>
+            <th>Price</th>
+            <th>Sale Date</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody [@fadeIn]="products.length">
+          <tr *ngFor="let laptop of products">
+            <td>{{laptop.name}}</td>
+            <td class="d-none d-md-table-cell d-xl-table-cell d-lg-table-cell">{{laptop.model}}</td>
+            <td>{{laptop.price | currency:'PLN':'symbol':'4.2-2'}}</td>
+            <td>{{laptop.dateOfPurchase}}</td>
+            <td>
+              <div class="btn-group">
+                <button class="btn brn-primary" (click)="goToProduct(laptop.id)">
+                  See details
+                </button>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>

@@ -9,7 +9,7 @@ export class ProductsService {
 
   constructor(private http: HttpClient) { }
 
-  getProductsList(data: SearchForm) {
+  getProductsList() {
     const url = '../../../assets/json/laptops.json';
     return this.http.get<Products>(url);
   }

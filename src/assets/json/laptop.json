@@ -3,7 +3,7 @@
   "name": "Macbook Pro",
   "model": "Macbook Pro 2018 Intel® Core i7™ Gen 16gb ram 256gb SSD 15\"",
   "price": 15000,
-  "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+  "dateOfPurchase": "12/02/2019",
   "imageUrl": "http://localhost:4200/assets/images/macbook-pro.jpg",
   "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est.</p><p>Fusce pulvinar posuere leo, nec tincidunt ante pretium quis.</p><p>Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod.</p><p>Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget.</p><p>Morbi et nulla sed mi vulputate ullamcorper. Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque.</p> <p><em>Sed ut blandit sem.</em><br /><br /> Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl.</p><p>Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi.</p>",
   "specs": [

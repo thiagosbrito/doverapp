@@ -1,6 +1,6 @@
 interface SearchForm {
   model: string;
-  dateFromTo: string;
+  date: string;
 }
 
 export {

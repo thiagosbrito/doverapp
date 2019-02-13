@@ -5,17 +5,15 @@
         <label for="byModel">Search by Laptop Model:</label>
         <input type="text" class="form-control" formControlName="model">
       </div>
-      <div class="col-lg-8">
-        <label for="dateFrom">Date from / to:</label>
+      <div class="col-lg-4">
+        <label for="dateFrom">Date:</label>
         <input type="text"
           class="form-control"
-          bsDaterangepicker
-          formControlName="dateFromTo">
+          bsDatepicker
+          formControlName="date">
       </div>
-    </div>
-    <div class="form-row">
-      <div class="col-lg-12 py-3">
-        <button class="btn btn-primary shadow-sm float-right" (click)="submitForm()">Search laptops</button>
+      <div class="col-lg-4 py-3">
+        <button class="btn btn-primary mr-2 shadow-sm float-right" (click)="submitForm()">Search laptops</button>
       </div>
     </div>
   </form>

@@ -23,7 +23,7 @@ export class SearchFormComponent implements OnInit {
   createForm() {
     this.searchForm = this.formBuilder.group({
       model: ['', { updateOn: 'blur', validators: [Validators.required] }],
-      dateFromTo: ['', { updateOn: 'blur', validators: [Validators.required] }]
+      date: ['', { updateOn: 'blur', validators: [Validators.required] }]
     });
   }
 

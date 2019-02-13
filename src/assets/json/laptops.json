@@ -4,7 +4,7 @@
     "name": "Macbook Pro",
     "model": "Macbook Pro 2018 Intel® Core i7™ Gen 16gb ram 256gb SSD 15\"",
     "price": 15000,
-    "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+    "dateOfPurchase": "12/02/2019",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   },
   {
@@ -12,46 +12,46 @@
     "name": "Acer Predator",
     "model": "Acer Predator Triton 700 PT715-51-77DD Intel® Core i7™ 32GB 512GB SSD NVIDIA® GeForce® GTX 1080 15,6\"",
     "price": 22000,
-    "dateOfPurchase": "2019-01-11T13:19:55.741Z",
+    "dateOfPurchase": "11/01/2019",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   },
   {
     "id": 3,
-    "name": "Macbook Pro",
-    "model": "Macbook Pro 2018 Core i7 7th Gen 16gb ram 256gb SSD 15\"",
-    "price": 15000,
-    "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+    "name": "Dell Latitude",
+    "model": "Dell Latitude Core i7 7th Gen 16gb ram 256gb SSD 15\"",
+    "price": 4600,
+    "dateOfPurchase": "20/07/2018",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   },
   {
     "id": 4,
-    "name": "Macbook Pro",
-    "model": "Macbook Pro 2018 Core i7 7th Gen 16gb ram 256gb SSD 15\"",
-    "price": 15000,
-    "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+    "name": "HP Envy 13\"",
+    "model": "Hp Envy Intel Core i7 7th Gen 8gb ram 128gb SSD 13\"",
+    "price": 3890,
+    "dateOfPurchase": "12/06/2018",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   },
   {
     "id": 5,
-    "name": "Macbook Pro",
-    "model": "Macbook Pro 2018 Core i7 7th Gen 16gb ram 256gb SSD 15\"",
-    "price": 15000,
-    "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+    "name": "Macbook Air",
+    "model": "Macbook Air 2017 Core i5 8gb ram 256gb SSD 13\"",
+    "price": 7500,
+    "dateOfPurchase": "11/01/2018",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   },{
     "id": 6,
-    "name": "Macbook Pro",
-    "model": "Macbook Pro 2018 Core i7 7th Gen 16gb ram 256gb SSD 15\"",
-    "price": 15000,
-    "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+    "name": "Dell Inspirion",
+    "model": "Dell Inspirion Intel Core i3 16gb ram 1tb HDD 15\"",
+    "price": 2300,
+    "dateOfPurchase": "12/01/2019",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   },
   {
     "id": 7,
     "name": "Macbook Pro",
-    "model": "Macbook Pro 2018 Core i7 7th Gen 16gb ram 256gb SSD 15\"",
-    "price": 15000,
-    "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+    "model": "Macbook Pro 2016 Core i5 5th Gen 16gb ram 512gb SSD 17\"",
+    "price": 11000,
+    "dateOfPurchase": "22/08/2018",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   },
   {
@@ -59,15 +59,15 @@
     "name": "Macbook Pro",
     "model": "Macbook Pro 2018 Core i7 7th Gen 16gb ram 256gb SSD 15\"",
     "price": 15000,
-    "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+    "dateOfPurchase": "12/02/2019",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   },
   {
     "id": 9,
-    "name": "Macbook Pro",
-    "model": "Macbook Pro 2018 Core i7 7th Gen 16gb ram 256gb SSD 15\"",
-    "price": 15000,
-    "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+    "name": "Dell Inspirion",
+    "model": "Dell Inspirion Intel Core i3 16gb ram 1tb HDD 15\"",
+    "price": 2300,
+    "dateOfPurchase": "31/10/2018",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   },
   {
@@ -75,7 +75,7 @@
     "name": "Macbook Pro",
     "model": "Macbook Pro 2018 Core i7 7th Gen 16gb ram 256gb SSD 15\"",
     "price": 15000,
-    "dateOfPurchase": "2019-02-12T17:49:55.741Z",
+    "dateOfPurchase": "12/02/2019",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pulvinar varius. Nunc metus leo, efficitur vitae sem venenatis, iaculis volutpat est. Fusce pulvinar posuere leo, nec tincidunt ante pretium quis. Mauris a convallis eros. Integer sodales sollicitudin neque, tincidunt tincidunt ipsum vestibulum quis. Nam luctus aliquam euismod. Nunc blandit eu odio ac tincidunt. Donec cursus gravida risus, eget suscipit tortor dictum eget. Morbi et nulla sed mi vulputate ullamcorper.    Vivamus rhoncus, ante ac sollicitudin placerat, risus lacus volutpat massa, vitae tempor nulla arcu et neque. Sed ut blandit sem. Curabitur vulputate dui metus, id sagittis arcu imperdiet a. Suspendisse et nisi scelerisque, mattis lectus ac, varius nisl. Ut varius lorem nec neque vulputate, vel laoreet enim rhoncus. Sed convallis, orci sit amet dapibus ultricies, augue nunc vulputate libero, vitae convallis nisi felis ac justo. Phasellus molestie tincidunt lectus vulputate commodo. Phasellus quis volutpat nisi."
   }
 ]

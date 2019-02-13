@@ -1,0 +1,28 @@
+<div class="filter bg-info rounded p-3 mb-4">
+  <h4>Filter by:</h4>
+  <form [formGroup]="filterForm">
+    <div class="form-row">
+      <div class="col-lg-7">
+        <label for="byModel">Search by Laptop Model:</label>
+        <input type="text" class="form-control" formControlName="model">
+      </div>
+      <div class="col-lg-2">
+        <label for="dateFrom">Date from / to:</label>
+        <input type="text"
+          class="form-control"
+          bsDatepicker
+          formControlName="date">
+      </div>
+      <div class="col-lg-3">
+        <div class="btn-group float-right mt-4 p-1">
+          <button class="btn btn-primary" (click)="filterList()">
+            Filter list
+          </button>
+          <button class="btn btn-danger" (click)="clearFilters()">
+            Clear filters
+          </button>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
